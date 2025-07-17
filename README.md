@@ -14,10 +14,6 @@ Welcome to **DigitSense**, an advanced app designed for accurately recognizing h
 
 - **DigitSense**: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictadigit.streamlit.app/)
 
-## 🖼️ Preview
-
-![DigitSense Screenshot](https://github.com/user-attachments/assets/07b2da72-ab12-4b1e-a34a-eb7ea2a8f7e4)
-![DigitSense Screenshot](https://github.com/user-attachments/assets/5bd05631-063f-4a91-8a5c-6c17ea223734)
 
 ---
 
