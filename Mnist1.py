@@ -10,6 +10,7 @@ import json
 import pandas as pd
 import numpy as np
 import os
+from dotenv import load_dotenv()
 
 st.set_page_config(page_title="MNIST Digit Recognition", page_icon="🧮", layout="wide")
 
