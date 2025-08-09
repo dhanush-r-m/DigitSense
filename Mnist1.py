@@ -9,6 +9,8 @@ import streamlit_lottie as st_lottie
 import json
 import pandas as pd
 import numpy as np
+import os
+
 st.set_page_config(page_title="MNIST Digit Recognition", page_icon="🧮", layout="wide")
 
 def load_lottie_file(filepath: str):
